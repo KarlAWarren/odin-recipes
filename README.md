@@ -1,3 +1,5 @@
 # odin-recipes
 
-Simple website created for the Odin Project HTML section
+Simple recipe website created for the Odin Project HTML section
+
+Updated for 2024
